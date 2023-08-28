@@ -163,7 +163,6 @@ section {
 /* PROFILE SECTION */
 
 #profile {
-    position: relative;
   display: flex;
   justify-content: center;
   gap: 5rem;
